@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Turgunov Dostonbek...</h1>
+<h1 align="center">Hi 👋, I'm Yo'ldashaliyev Do'stmuhammad...</h1>
 <h3 align="center">Frontend Developer from Uzbekistan.</h3>
 
 ---
@@ -11,6 +11,6 @@
 ---
 
 ### 🔗 Let's connect
-- 📬 [Telegram](https://t.me/Tme0813) &nbsp; 📸 [Instagram](https://instagram.com/USERNAME) &nbsp; 📘 [Facebook](https://facebook.com/dostonbek.turgunov)  &nbsp; 💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp; 📝 [Teletype blog](https://teletype.in/@turgunovdostonbek) &nbsp; 🌐 [Portfolio](https://portfolio1398.vercel.app/) &nbsp; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/dashboard) 
+- 📬 [Telegram]([https://t.me/Tme0813](https://t.me/dostmuhammad_1311)) &nbsp; 📸 [Instagram](https://instagram.com/yold_ashev_2011) &nbsp; 📘  💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp;  ; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/dashboard) 
 
 ---
