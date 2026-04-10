@@ -11,6 +11,6 @@
 ---
 
 ### 🔗 Let's connect
-- 📬 [Telegram]([https://t.me/Tme0813](https://t.me/dostmuhammad_1311)) &nbsp; 📸 [Instagram](https://instagram.com/yold_ashev_2011) &nbsp; 📘  💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp;  ; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/dashboard) 
+- 📬 [Telegram]([https://t.me/Tme0813](https://t.me/dostmuhammad_1311) &nbsp; 📸 [Instagram](https://instagram.com/yold_ashev_2011) &nbsp; 📘  💼 [LinkedIn](https://www.linkedin.com/feed/) &nbsp;  ; 🧠 [LeetCode](https://leetcode.com/u/TurgunovDostonbek) &nbsp; 🧩 [Codewars](https://www.codewars.com/dashboard) 
 
 ---
